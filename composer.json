@@ -1,0 +1,18 @@
+{
+    "name": "pc/mi-paquete",
+    "description": "paquete sencillo",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pc\\MiPaquete\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JonathanGabri",
+            "email": "alvaradojonathang08@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
