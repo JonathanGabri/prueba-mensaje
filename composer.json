@@ -1,5 +1,5 @@
 {
-    "name": "pc/mi-paquete",
+    "name": "prueba-mensaje/mi-paquete",
     "description": "paquete sencillo",
     "license": "MIT",
     "autoload": {
